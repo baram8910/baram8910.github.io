@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-04-18 08:43:59
-author: Ben Centra
-categories: Jekyll
-tags:	jekyll welcome
+title:  "첫번째 포스팅 #blogStart"
+date:   2017-01-20 14:25:00
+author: baram8910
 cover:  "/assets/instacode.png"
 ---
 
